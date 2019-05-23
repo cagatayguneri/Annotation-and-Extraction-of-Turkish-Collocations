@@ -1,1 +1,1 @@
-# Repository
+The extraction of collocations or multi Word expressions of language is especially important for other NLP areas as a pre-task such as Machine Translation(MT), Natural Language Understanding(NLU), Automatic Summarization(AS) to improve their success ratio. In the scope of this Project, different kinds Turkish multi-word expressions were identified and several methods were investigated to find the most effective approach. The adopted algorithms were used to extract different kinds collocations on our Turkish datasets.
